@@ -1,0 +1,2 @@
+# Check whether my port is open or not
+telnet guvi.com 9000
